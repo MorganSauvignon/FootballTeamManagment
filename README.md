@@ -1,5 +1,14 @@
 # FootballTeamManagment
 
+## Ce qui a été fait 
+### ✔️ Partie 1 : Service d'Équipes 
+### ✔️ Partie 2 : Service de Joueurs 
+### ✔️ Partie 3 : Service de Matchs 
+### ✔️ Partie 4 : Service de Statistiques 
+### ✔️ Partie 5 : Documentation Swagger
+### ✔️ Partie 6 : Tolérance aux Pannes
+### ✔️ Partie 7 : Monitoring
+
 ## Microservices de Gestion Football
 
 ### Service d'Équipes (TeamService)
