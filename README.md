@@ -3,9 +3,11 @@
 # Microservices de Gestion Football
 
 ## Service d'Équipes (TeamService)
-Récupérer les détails d'une équipe
-Endpoint: GET /teams/{id}
-Description: Renvoie les détails d'une équipe spécifiée par son identifiant.
+- Récupérer les détails d'une équipe
+    Endpoint: GET /teams/{id}
+    Description: Renvoie les détails d'une équipe spécifiée par son identifiant.
+
+  
 Ajouter une nouvelle équipe
 Endpoint: POST /teams
 Description: Permet d'ajouter une nouvelle équipe à la liste des équipes.
