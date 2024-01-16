@@ -18,7 +18,12 @@
 ![image](https://github.com/MorganSauvignon/FootballTeamManagment/assets/70762614/91236afd-c137-4d88-bab4-ecd67c7f7d31)
 
 ### ✔️ Partie 7 : Monitoring
-- Monitoring mise en place sur tous les microservices. 
+- Monitoring mise en place sur tous les microservices.
+
+- 
+### ✔️ Partie 8 : Load Balancing
+![image](https://github.com/MorganSauvignon/FootballTeamManagment/assets/70762614/024cdfc3-d009-4073-8b66-253438d4ed07)
+- Mise en place du load balancing et de la possibilité de lancer plusieurs instances de MatchService.
 
 ## Microservices de Gestion Football
 
