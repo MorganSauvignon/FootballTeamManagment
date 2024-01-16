@@ -1,8 +1,8 @@
 # FootballTeamManagment
 
+#Microservices de Gestion Football
 
-Microservices de Gestion Football
-Service d'Équipes (TeamService)
+##Service d'Équipes (TeamService)
 Récupérer les détails d'une équipe
 Endpoint: GET /teams/{id}
 Description: Renvoie les détails d'une équipe spécifiée par son identifiant.
