@@ -5,9 +5,20 @@
 ### ✔️ Partie 2 : Service de Joueurs 
 ### ✔️ Partie 3 : Service de Matchs 
 ### ✔️ Partie 4 : Service de Statistiques 
+![image](https://github.com/MorganSauvignon/FootballTeamManagment/assets/70762614/b3fcd1ee-7e9f-4c80-a0d6-09391fddf520)
+- Tous les services sont enregistrés. 
+
 ### ✔️ Partie 5 : Documentation Swagger
+![image](https://github.com/MorganSauvignon/FootballTeamManagment/assets/70762614/c18a4511-e5fc-42f5-a143-9842661719cd)
+- Un exemple de la documentation Swagger mise en place sur les différents microservices. Ici sur PlayerService. 
+
 ### ✔️ Partie 6 : Tolérance aux Pannes
+![image](https://github.com/MorganSauvignon/FootballTeamManagment/assets/70762614/1cc03bca-52b2-4c64-b056-2b7764c9a67e)
+- Tolérance aux pannes mise en place sur la méthode getTeamById.
+![image](https://github.com/MorganSauvignon/FootballTeamManagment/assets/70762614/91236afd-c137-4d88-bab4-ecd67c7f7d31)
+
 ### ✔️ Partie 7 : Monitoring
+- Monitoring mise en place sur tous les microservices. 
 
 ## Microservices de Gestion Football
 
